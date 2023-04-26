@@ -1,5 +1,7 @@
-### Hi there 👋
+### Ola, Pessoal, 👋
+Olá, meu nome é Pedro Nunes e sou um desenvolvedor Front-end. Estou muito animado em ter a oportunidade de compartilhar com vocês alguns dos meus projetos e códigos neste perfil do GitHub.
 
+[![pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronnsm&show_icons=true&layout=compact)](https://github.com/pedronnsm/github-readme-stats)
 <!--
 **PedroNnsM/pedronnsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
