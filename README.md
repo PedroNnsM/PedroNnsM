@@ -1,5 +1,6 @@
 ### Ola, Pessoal, 👋
 Olá, meu nome é Pedro Nunes e sou um desenvolvedor Front-end. Estou muito animado em ter a oportunidade de compartilhar com vocês alguns dos meus projetos e códigos neste perfil do GitHub.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mysql,wordpress,graphql,git,tailwind,sass,figma,&theme=light)](https://skillicons.dev)
 
 [![pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedronnsm&layout=compact&langs_count=8&hide=contribs,issues&show_icons=true&theme=monokai)](https://github.com/pedronnsm/github-readme-stats)
 <!--
